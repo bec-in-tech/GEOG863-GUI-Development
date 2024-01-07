@@ -1,4 +1,4 @@
-# GEOG863 - GUI Development in USA Wildfire Explorer Map
+# GEOG863 GUI Development: USA Wildfire Explorer Map
 
 <b>Project Description:</b><br>
 
