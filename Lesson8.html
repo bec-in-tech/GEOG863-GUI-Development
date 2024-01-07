@@ -1,0 +1,41 @@
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="initial-scale=1,maximum-scale=1,user-scalable=no"
+    />
+    <title>GEOG 863 - Lesson 8: GUI Development</title>
+
+    <link
+      rel="stylesheet"
+      href="https://js.arcgis.com/4.26/esri/themes/light/main.css"
+    />
+    <link rel="stylesheet" href="Lesson8.css" />
+    <script src="https://js.arcgis.com/4.26/"></script>
+    <script src="Lesson8.js"></script>
+  </head>
+
+  <body>
+    <div class="panel-container">
+      <div class="panel-side">
+        <h2>Selected Wildfires</h2>
+        <ul id="list_fires">
+          <li>Loading&hellip;</li>
+        </ul>
+      </div>
+      
+    <div id="viewDiv"></div>
+   
+    <div id="paneDiv" class="esri-widget">
+    <div>
+      <h2>USA Wildfire Map</h2>
+      <em>Search for a fire year between 2000 and 2018: </em>
+      <input type='text' id='txtName' placeholder='e.g., 2005'></input>
+      <button class="esri-widget" id="btnQuery">Search Wildfires</button> <br /><br />
+      <span id='results'></span>
+    </div>
+    </div> 
+   
+  </body>
+</html>
