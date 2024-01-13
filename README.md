@@ -28,6 +28,9 @@ The USA Wildfire Explorer map offers an immersive and interactive experience for
 
 Explore the "USA Wildfire Explorer" to gain valuable insights into historical wildfire patterns, sizes, and locations, fostering a deeper understanding of the impact of wildfires across the United States.
 
+![image](https://github.com/bec-in-tech/GEOG863-GUI-Development/assets/120440399/5b690839-d84d-4283-919e-d6246c940895)
+
+
 <p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="zYmqJmz" data-user="rmu5072" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
   <span>See the Pen <a href="https://codepen.io/rmu5072/pen/zYmqJmz">
   Lesson 8 Assignment</a> by Rebecca U (<a href="https://codepen.io/rmu5072">@rmu5072</a>)
